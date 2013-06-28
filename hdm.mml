@@ -531,7 +531,7 @@
         "key_field": "",
         "password": "osm",
         "port": "5432",
-        "project": "osm-bright-master",
+        "project": "hdm",
         "srs": null,
         "table": "( SELECT way \n  FROM planet_osm_point \n  WHERE highway = 'turning_circle'\n) AS data",
         "type": "postgis",
